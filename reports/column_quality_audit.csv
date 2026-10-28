@@ -1,0 +1,15 @@
+column,dtype,missing_count,missing_pct,unique_count,sample_value,diagnosed_issues
+country,object,0,0.0,1,United States of America,Константная колонка (1 значение)
+country_code,object,0,0.0,1,US,Константная колонка (1 значение)
+date_added,object,21878,99.45,78,5/10/2016,Много пропусков (>80%)
+has_expired,object,0,0.0,1,No,Константная колонка (1 значение)
+job_board,object,0,0.0,1,jobs.monster.com,Константная колонка (1 значение)
+job_description,object,0,0.0,18723,TeamSoft is seeing an IT Support Specialist to joi,OK
+job_title,object,0,0.0,18759,IT Support Technician Job in Madison,OK
+job_type,object,1628,7.4,37,Full Time Employee,OK
+location,object,0,0.0,8422,"Madison, WI 53702",OK
+organization,object,6867,31.21,738,Printing and Publishing,OK
+page_url,object,0,0.0,22000,http://jobview.monster.com/it-support-technician-j,OK
+salary,object,18557,84.35,1719,9.00 - 13.00 $ /hour,Много пропусков (>80%)
+sector,object,5194,23.61,163,IT/Software Development,OK
+uniq_id,object,0,0.0,22000,11d599f229a80023d2f40e7c52cd941e,OK
